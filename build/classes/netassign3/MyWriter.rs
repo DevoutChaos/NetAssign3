@@ -1,0 +1,2 @@
+MyWriter
+MyWriter$1
